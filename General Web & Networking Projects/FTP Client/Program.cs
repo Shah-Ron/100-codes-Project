@@ -12,7 +12,7 @@ class Program
     {
         // Decryption path of encrypted JSON File
         string keyIVPath = /*Provide the path*/;
-        string encryptedInputPath = /*Provide the path*/;
+        string encryptedFileInputPath = /*Provide the path*/;
 
         // Read key and IV from JSON file
         byte[] key = ReadKeyFromJson(keyIVPath, "Key");
@@ -20,7 +20,7 @@ class Program
 
         // Initialise and call decryption code
         DecryptionHelper decrypt = new DecryptionHelper(key, iv);
-        decrypt.DecryptJsonFile(encryptedInputPath, "decrypted.json");
+        decrypt.DecryptJsonFile(encryptedFileInputPath, "decrypted.json");
 
 
         // Read FTP server details from JSON file
