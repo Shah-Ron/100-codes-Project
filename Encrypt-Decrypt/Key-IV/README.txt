@@ -1,0 +1,1 @@
+This is a simple program that will create a Key-IV JSON file for you which you can use for encryptions and decryptions of Data.

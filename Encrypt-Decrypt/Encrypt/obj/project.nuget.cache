@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2tlYFSovVfq2XW6fkgkPiff0XhOYTxdwpkA5Tl+f5tX5DSj7udgEFRBHWxihnWH6jFh1U5D/bRi93zVhofb1HA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shahr\\OneDrive\\Desktop\\Self Study\\100 codes project\\100-codes-Project\\Encrypt-Decrypt\\Encrypt\\Encrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shahr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\shahr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\shahr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\shahr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\shahr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
