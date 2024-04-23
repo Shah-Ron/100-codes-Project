@@ -2,9 +2,10 @@
 A simple File Transfer client that uses the FTP (File Transfer Protocol). As a bonus challenge, add support for secure file transfer. It can be a web, desktop, or CLI app.
 You can try to first implement TFTP (Trivial File Transfer Protocol) as it's easier.
 
-<b>Suggested Language</b>: C/C++
-<b>Suggested Frameworks/Tools</b>: Use Wireshark to observe packets and debug them
+<b>Suggested Language</b>: C/C++  
+<b>Suggested Frameworks/Tools</b>: Use Wireshark to observe packets and debug them  
 <b>Example Implementation</b>: Filezilla is extremely complete, here is a simple Go implementation
+
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ## Explaination of the code
