@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shahr\\OneDrive\\Desktop\\Self Study\\100 codes project\\100-codes-Project\\Encryption\\Key-IV\\Key-IV.csproj": {}
+    "C:\\Users\\shahr\\OneDrive\\Desktop\\Self Study\\100 codes project\\100-codes-Project\\Encrypt-Decrypt\\Key-IV\\Key-IV.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shahr\\OneDrive\\Desktop\\Self Study\\100 codes project\\100-codes-Project\\Encryption\\Key-IV\\Key-IV.csproj": {
+    "C:\\Users\\shahr\\OneDrive\\Desktop\\Self Study\\100 codes project\\100-codes-Project\\Encrypt-Decrypt\\Key-IV\\Key-IV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shahr\\OneDrive\\Desktop\\Self Study\\100 codes project\\100-codes-Project\\Encryption\\Key-IV\\Key-IV.csproj",
+        "projectUniqueName": "C:\\Users\\shahr\\OneDrive\\Desktop\\Self Study\\100 codes project\\100-codes-Project\\Encrypt-Decrypt\\Key-IV\\Key-IV.csproj",
         "projectName": "Key-IV",
-        "projectPath": "C:\\Users\\shahr\\OneDrive\\Desktop\\Self Study\\100 codes project\\100-codes-Project\\Encryption\\Key-IV\\Key-IV.csproj",
+        "projectPath": "C:\\Users\\shahr\\OneDrive\\Desktop\\Self Study\\100 codes project\\100-codes-Project\\Encrypt-Decrypt\\Key-IV\\Key-IV.csproj",
         "packagesPath": "C:\\Users\\shahr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shahr\\OneDrive\\Desktop\\Self Study\\100 codes project\\100-codes-Project\\Encryption\\Key-IV\\obj\\",
+        "outputPath": "C:\\Users\\shahr\\OneDrive\\Desktop\\Self Study\\100 codes project\\100-codes-Project\\Encrypt-Decrypt\\Key-IV\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shahr\\AppData\\Roaming\\NuGet\\NuGet.Config"

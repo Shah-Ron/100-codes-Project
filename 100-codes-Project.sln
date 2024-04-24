@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Encrypt-Decrypt", "Encrypt-Decrypt", "{A4541A6E-D2DE-4F5B-8DFF-9A5E7B71DE24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decrypt", "Encrypt-Decrypt\Decrypt\Decrypt.csproj", "{C0B5D7A9-F5C5-4201-A0A8-E05CE3D36B2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encrypt", "Encrypt-Decrypt\Encrypt\Encrypt.csproj", "{1BAE1E8D-BF99-45D1-975F-833B1489D968}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Key-IV", "Encrypt-Decrypt\Key-IV\Key-IV.csproj", "{A2519B84-0917-4B5C-A6D4-7B1B7B52774E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "General Web & Networking Projects", "General Web & Networking Projects", "{B2E28981-A759-477A-A527-308E61B91A1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FTP", "General Web & Networking Projects\FTP Client\FTP.csproj", "{E71035EC-0290-43A9-81D0-1FA65BE15D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B5D7A9-F5C5-4201-A0A8-E05CE3D36B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B5D7A9-F5C5-4201-A0A8-E05CE3D36B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B5D7A9-F5C5-4201-A0A8-E05CE3D36B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B5D7A9-F5C5-4201-A0A8-E05CE3D36B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BAE1E8D-BF99-45D1-975F-833B1489D968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BAE1E8D-BF99-45D1-975F-833B1489D968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BAE1E8D-BF99-45D1-975F-833B1489D968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BAE1E8D-BF99-45D1-975F-833B1489D968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2519B84-0917-4B5C-A6D4-7B1B7B52774E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2519B84-0917-4B5C-A6D4-7B1B7B52774E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2519B84-0917-4B5C-A6D4-7B1B7B52774E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2519B84-0917-4B5C-A6D4-7B1B7B52774E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E71035EC-0290-43A9-81D0-1FA65BE15D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71035EC-0290-43A9-81D0-1FA65BE15D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71035EC-0290-43A9-81D0-1FA65BE15D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71035EC-0290-43A9-81D0-1FA65BE15D50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C0B5D7A9-F5C5-4201-A0A8-E05CE3D36B2D} = {A4541A6E-D2DE-4F5B-8DFF-9A5E7B71DE24}
+		{1BAE1E8D-BF99-45D1-975F-833B1489D968} = {A4541A6E-D2DE-4F5B-8DFF-9A5E7B71DE24}
+		{A2519B84-0917-4B5C-A6D4-7B1B7B52774E} = {A4541A6E-D2DE-4F5B-8DFF-9A5E7B71DE24}
+		{E71035EC-0290-43A9-81D0-1FA65BE15D50} = {B2E28981-A759-477A-A527-308E61B91A1D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F04AC46A-6F6D-43CE-9527-3BD9A5CE5952}
+	EndGlobalSection
+EndGlobal
