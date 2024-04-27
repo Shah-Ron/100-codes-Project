@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Decrypt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f92500bbc060950853b8a9a37feb62ac80d8a926")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4185b3ff2cbd7920f69e791260a44e86aeb146b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Decrypt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Decrypt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

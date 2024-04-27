@@ -1,0 +1,1 @@
+This folder is where I tried different different codes as explained in the blog starting from "https://ruslanspivak.com/lsbaws-part1/". It's my path for learning how to create HTTPS server

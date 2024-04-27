@@ -1,0 +1,1 @@
+Just a code exercise that was asked for the written interview of DataAnnotation. The question was to decode the the text and find the secret messsage where the numbers in the file are to be sorted and then make a pyramid structure with one step having one element greater than the above step. Then the text corresponding to the last number in the step is to be considered.
