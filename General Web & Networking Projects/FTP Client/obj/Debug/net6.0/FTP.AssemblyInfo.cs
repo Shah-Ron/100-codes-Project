@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FTP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+466869a53e55cb4148a99b24f645867400bd2360")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e29306c100d43963bf8fc687c530fc9f97dc28e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("FTP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FTP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
