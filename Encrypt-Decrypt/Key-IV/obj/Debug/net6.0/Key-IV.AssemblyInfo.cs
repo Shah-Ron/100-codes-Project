@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Key-IV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf58e4a2be804cca6808a168176f7c6d64308734")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+466869a53e55cb4148a99b24f645867400bd2360")]
 [assembly: System.Reflection.AssemblyProductAttribute("Key-IV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Key-IV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
